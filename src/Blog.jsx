@@ -22,13 +22,6 @@ const Blog = () => {
   //   document.getElementById('counter').removeEventListener('click', this.countUp)
   // }
 
-  // // 公開状態を反転させる
-  // togglePublished = () => {
-  //   this.setState({
-  //     isPublished: !this.state.isPublished
-  //   })
-  // };
-
   // countUp = () => {
   //   this.setState({ count: this.state.count + 1 })
   // }
